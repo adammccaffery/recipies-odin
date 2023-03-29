@@ -1,0 +1,36 @@
+h1 {
+    background-color: sienna;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: peru;
+}
+
+h3 {
+    /*background-color: rosybrown;*/
+}
+
+ul,
+ol, 
+a {
+    background-color: sandybrown;
+    color: sienna;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+
+body {
+    color: cornsilk;
+    background-color: bisque;
+}
+
+.listBlock {
+    background-color: sandybrown;
+}
